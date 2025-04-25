@@ -16,7 +16,8 @@ This is a client-server and terminal based TicTacToe game written in Python, usi
 - Interpreter: You need an interpreter like Microsoft Visual Studio or VS Code, specifically a Python interpreter.
 
 # Execution
-Run the Python file on any software that supports it.
+- Run the server.py file to start the server.
+- Run the client.py file using port and IP address of the system the server is running on.
 
 # Controls
 - Terminal based so type in commands according to prompts.
